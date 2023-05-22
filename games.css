@@ -1,0 +1,45 @@
+body {
+    text-align: center;
+    background-color: greenyellow;
+}
+#abt{
+    font-family: fantasy ;
+    font-size: 67px;
+}
+h1 {
+    font-family: cursive;
+}
+#dot{
+    border: dotted;
+}
+
+#rtd{
+    border-radius:200px;
+    border-width:2px;
+    border-color:red;
+    height:375px;
+    width:375px;
+}
+#rtd:hover{
+    /*Give transform property to scale to 0.9*/
+    transform:scale(0.9);
+}
+#aam{
+    border-radius:200px;
+    border-width:2px;
+    border-color:red;
+    height:375px;
+    width:375px;
+}
+#aam:hover{
+    /*Give transform property to scale to 0.9*/
+    transform:scale(0.9);
+}
+#brand {
+    border-radius: 70px;
+    border-width:2px;
+    border-color:red;
+    height:30px;
+    width: 30px;
+    
+}

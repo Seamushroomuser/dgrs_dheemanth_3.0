@@ -1,0 +1,71 @@
+body {
+    text-align: center;
+    background-color: #07f2db;
+}
+#mh{
+    font-family: fantasy ;
+    font-size: 67px;
+}
+#dot{
+    border: dotted;
+    border-color:red;
+}
+h1 {
+    font-family: monospace;
+}
+#chess{
+    border-radius: 70px;
+    border-width:2px;
+    border-color:black;
+    height:150px;
+    width:150px;
+    
+}
+#chess:hover{
+    /*Give transform property to scale to 0.9*/
+    transform:scale(0.9);
+}
+#badmintion {
+    border-radius: 70px;
+    border-width:2px;
+    border-color:red;
+    height:150px;
+    width:150px;
+    
+}
+#badmintion:hover{
+    /*Give transform property to scale to 0.9*/
+    transform:scale(0.9);
+}
+#swimming {
+    border-radius: 70px;
+    border-width:2px;
+    border-color:red;
+    height:150px;
+    width:150px;
+    
+}
+#swimming:hover{
+    /*Give transform property to scale to 0.9*/
+    transform:scale(0.9);
+}
+
+#gb{
+    border-radius: 140px;
+    border-width:2px;
+    border-color: red;
+    height: 300px;
+    width:300px;
+}
+#gb:hover{
+    /*Give transform property to scale to 0.9*/
+    transform:scale(0.9);
+}
+#brand {
+    border-radius: 70px;
+    border-width:2px;
+    border-color:red;
+    height:30px;
+    width: 30px;
+    
+}

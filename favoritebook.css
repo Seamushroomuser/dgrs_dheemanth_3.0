@@ -1,0 +1,33 @@
+body {
+    text-align: center;
+    background-color: greenyellow;
+}
+#mfb{
+    font-family: fantasy ;
+    font-size: 67px;
+}
+h1 {
+    font-family: monospace;
+}
+#dot{
+    border: dotted;
+}
+#hp{
+    border-radius: 140px;
+    border-width:2px;
+    border-color:red;
+    height: 375px;
+    width:375px;
+}
+#hp:hover{
+    /*Give transform property to scale to 0.9*/
+    transform:scale(0.9);
+}
+#brand {
+    border-radius: 70px;
+    border-width:2px;
+    border-color:red;
+    height:30px;
+    width: 30px;
+    
+}

@@ -1,0 +1,35 @@
+body {
+    background-color: azure;
+    text-align: center;
+}
+h1{
+    font-family: monospace;
+    font-size: 45px;
+}
+#back{
+	height: 75px;
+	width: 200px;
+	border: dotted;
+}
+#back:hover{
+    /*Give transform property to scale to 0.9*/
+    transform:scale(0.9);
+}
+#aam{
+    border-radius: 140px;
+    border-width:2px;
+    border-color: red;
+    height: 300px;
+    width:300px;
+}
+#dot{
+    border:dotted;
+}
+#brand {
+    border-radius: 70px;
+    border-width:2px;
+    border-color:red;
+    height:30px;
+    width: 30px;
+    
+}
